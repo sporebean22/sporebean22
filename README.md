@@ -1,4 +1,4 @@
-Hello Friend Nice to See you, these are the languages and frameworks im familiar with:
+#### :whale: Hello Friend Nice to See you, Im Dilan Ormisiar (aka sporebean22) these are the languages and frameworks im familiar with :whale2:
 
 ## Programming Languages
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" height="48px" width="auto" /> <img src="https://cdn.iconscout.com/icon/free/png-256/powershell-2-569189.png" height="48px" width="auto" /> <img src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" height="48px" width="auto" /> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height="48px" width="auto" /> <img src="https://icon-library.com/images/java-icon-image/java-icon-image-0.jpg" height="48px" width="auto" />
