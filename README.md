@@ -13,6 +13,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" height="48px" width="auto" /> <img src="https://raw.githubusercontent.com/CAST-Extend/resources/master/com.castsoftware.webapi.png" height="48px" width="auto" /> <img src="https://cdn2.iconfinder.com/data/icons/nodejs-1/512/nodejs-512.png" height="48px" width="auto" /> <img src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1423519219laravel-l-slant.png" height="48px" width="auto" />
 
 ## Etc.
-<img src="https://chocolatey.org/content/packageimages/jmeter.5.2.1.svg" height="48px" width="auto" /> <img src="https://image.flaticon.com/icons/png/512/873/873107.png" height="48px" width="auto" /> <img src="https://cdn.auth0.com/blog/aspnet-core-web-apis/swagger.png" height="48px" width="auto" /> <img src="https://img.icons8.com/color/48/000000/markdown.png" height="48px" width="auto" /> <img src="https://seeklogo.com/images/L/laravel-framework-logo-C10176EC8C-seeklogo.com.png" height="48px" width="auto" />
+<img src="https://jmeter.apache.org/images/jmeter.png" height="48px" width="auto" /> <img src="https://image.flaticon.com/icons/png/512/873/873107.png" height="48px" width="auto" /> <img src="https://cdn.auth0.com/blog/aspnet-core-web-apis/swagger.png" height="48px" width="auto" /> <img src="https://img.icons8.com/color/48/000000/markdown.png" height="48px" width="auto" />
 
 # ISTQB Certified Tester <img src="https://www.istqb.org/images/ISTQB-Certified_original.png" height="48px" width="auto" />
